@@ -250,7 +250,7 @@ def simulate(num_games, p1, p2):
     counts = dict()
     for i in range(num_games):
         if i and i % 100 == 0:
-            print(str(i + 1), 'games played')
+            print(i, 'games played')
             print('Results so far:', counts.get(1, 0), 'wins for Player 1,',
                 counts.get(2, 0), 'wins for Player 2')
         game = Battleship(p1, p2)
