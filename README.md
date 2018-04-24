@@ -1,2 +1,2 @@
 # Battleship
-Battleship game with neural network AI implementation. Adapted from http://efavdb.com/battleship/
+Battleship game with reinforcement learning AI implementation. Adapted from http://efavdb.com/battleship/
