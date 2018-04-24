@@ -3,7 +3,7 @@ import tensorflow as tf
 import numpy as np
 
 """
-Neural network implementation for Battleship.
+Reinforcement learning implementation for Battleship.
 
 Details of the reward function and gradient step adapted from:
 http://efavdb.com/battleship/
